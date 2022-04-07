@@ -1,8 +1,7 @@
-import random
 from colorama import init, Fore, Back, Style
 init()
 play = True
-words = ["crown", "build", "logic", "plane", "focus", "money", "plant", "plate", "pound", "other", "input", "horse", "green", "group", "beans", "guide", "layer", "mayor", "lunch", "limit", "model", "point", "scope", "score", "title", "total", "world"]
+
 
 #Main Loop
 while play:
